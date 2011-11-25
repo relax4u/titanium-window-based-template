@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="first_window">First Window</string>
+	<string name="next_window">Next Window</string>
+	<string name="goto_next">Go to next</string>
+</resources>

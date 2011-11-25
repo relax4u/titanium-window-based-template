@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="first_window">ウインドウ1</string>
+	<string name="next_window">ウインドウ2</string>
+	<string name="goto_next">次へ</string>
+</resources>
